@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "behradz@gmail.com",
   "license": "ISC",
-  "description": "A simple stack implementation for nodejs"
+  "description": "A simple stack implementation for nodejs",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }

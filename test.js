@@ -16,3 +16,5 @@ console.log(stack.pop())
 console.log(`length=${stack.length()}`)
 
 console.log(stack.pop())
+
+console.log('End')
