@@ -17,3 +17,8 @@ module.exports.pop = function() {
 module.exports.length = function() {
     return index
 }
+
+
+module.exports.isEmpty = function() {
+  return index === 0
+}
